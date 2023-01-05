@@ -115,7 +115,7 @@ sf plugins
 
 ## `sf hello world`
 
-Say hello either to the world or someone you know.
+Say hello.
 
 ```
 USAGE
@@ -128,7 +128,7 @@ GLOBAL FLAGS
   --json  Format output as json.
 
 DESCRIPTION
-  Say hello either to the world or someone you know.
+  Say hello.
 
   Say hello either to the world or someone you know.
 

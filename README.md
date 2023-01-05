@@ -111,7 +111,9 @@ sf plugins
 
 <!-- commands -->
 
-- [`sf hello world`](#sf-hello-world)
+- [`sf party combine`](#sf-party-combine)
+- [`sf party hello world`](#sf-party-hello-world)
+- [`sf party split`](#sf-party-split)
 
 ## `sf hello world`
 
@@ -140,6 +142,75 @@ EXAMPLES
   Say hello to someone you know:
 
     $ sf hello world --name Astro
+```
+
+## `sf party combine`
+
+Summary of a command.
+
+```
+USAGE
+  $ sf party combine [--json] [-n <value>]
+
+FLAGS
+  -n, --name=<value>  Description of a flag.
+
+GLOBAL FLAGS
+  --json  Format output as json.
+
+DESCRIPTION
+  Summary of a command.
+
+  Description of a command.
+
+EXAMPLES
+  $ sf party combine
+```
+
+## `sf party hello world`
+
+Summary of a command.
+
+```
+USAGE
+  $ sf party hello world [--json] [-n <value>]
+
+FLAGS
+  -n, --name=<value>  Description of a flag.
+
+GLOBAL FLAGS
+  --json  Format output as json.
+
+DESCRIPTION
+  Summary of a command.
+
+  Description of a command.
+
+EXAMPLES
+  $ sf party hello world
+```
+
+## `sf party split`
+
+Summary of a command.
+
+```
+USAGE
+  $ sf party split [--json] [-n <value>]
+
+FLAGS
+  -n, --name=<value>  Description of a flag.
+
+GLOBAL FLAGS
+  --json  Format output as json.
+
+DESCRIPTION
+  Summary of a command.
+
+  Description of a command.
+
+EXAMPLES
+  $ sf party split
 ```
 
 <!-- commandsstop -->

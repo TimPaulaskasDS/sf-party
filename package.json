@@ -69,6 +69,14 @@
     "topics": {
       "hello": {
         "description": "Commands to say hello."
+      },
+      "party": {
+        "description": "Splits metadata XML into YAM parts and combines YAML parts into XML",
+        "subtopics": {
+          "hello": {
+            "description": "Generic hello world"
+          }
+        }
       }
     }
   },

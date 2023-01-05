@@ -93,5 +93,18 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "Tim Paulaskas"
+  "author": "Tim Paulaskas",
+  "types": "./lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimPaulaskasDS/sf-party.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TimPaulaskasDS/sf-party/issues"
+  },
+  "homepage": "https://github.com/TimPaulaskasDS/sf-party#readme"
 }

@@ -115,35 +115,6 @@ sf plugins
 - [`sf party hello world`](#sf-party-hello-world)
 - [`sf party split`](#sf-party-split)
 
-## `sf hello world`
-
-Say hello.
-
-```
-USAGE
-  $ sf hello world [--json] [-n <value>]
-
-FLAGS
-  -n, --name=<value>  [default: World] The name of the person you'd like to say hello to.
-
-GLOBAL FLAGS
-  --json  Format output as json.
-
-DESCRIPTION
-  Say hello.
-
-  Say hello either to the world or someone you know.
-
-EXAMPLES
-  Say hello to the world:
-
-    $ sf hello world
-
-  Say hello to someone you know:
-
-    $ sf hello world --name Astro
-```
-
 ## `sf party combine`
 
 Summary of a command.
